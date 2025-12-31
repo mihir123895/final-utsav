@@ -1,0 +1,86 @@
+Build a modern, premium, photography and videography studio website using React, Vite, TailwindCSS, 
+Framer Motion, and Three.js. The project name is "utsav-digital-studio".
+
+🎯 GOAL:
+Create a stunning one-stop portfolio website for “Utsav Digital Studio” 
+that highlights photo and video work in a luxurious Gen-Z cinematic style.
+No backend or database required. All images and videos will be stored locally in the public folder.
+
+---
+
+📂 FOLDER STRUCTURE:
+public/
+  ├── logo.png
+  ├── banner/
+  ├── photos/
+  ├── videos/
+src/
+  ├── App.jsx
+  ├── main.jsx
+  ├── index.css
+  ├── components/
+  ├── pages/
+  ├── utils/constants.js
+  ├── assets/
+  └── animations/
+      └── ThreeScene.jsx
+
+---
+
+🖥️ PAGES:
+1. **Home.jsx**
+   - Hero section with Framer Motion and a 3D camera animation (Three.js)
+   - Short tagline: “Capturing Emotions, Creating Stories.”
+   - Highlight 3–4 main services
+   - Featured portfolio slider (Framer Motion horizontal scroll)
+   - Testimonials slider
+
+2. **Portfolio.jsx**
+   - Grid gallery layout (images and videos from public/photos & public/videos)
+   - Filter buttons: All | Wedding | Pre-wedding | Events | Studio
+   - Lightbox modal for enlarged preview
+
+3. **Services.jsx**
+   - Animated service cards with hover effects
+   - Each card: icon + title + short description
+
+4. **About.jsx**
+   - Story of “Utsav Digital Studio”
+   - Experience timeline (Framer Motion reveal)
+   - Photo of the founder (father) and Mihir Patel (developer & editor)
+   - Studio highlights section
+
+5. **Contact.jsx**
+   - Clean dark-gold theme
+   - Three animated buttons:
+     - WhatsApp → open chat
+     - Instagram → open profile
+     - Call → direct phone link
+   - Small tagline: “Let’s make your next story unforgettable.”
+
+---
+
+🎨 STYLE:
+- Theme: Dark black base with gold accent and white text
+- Font: “Poppins” or “Urbanist” (modern sans-serif)
+- Buttons: Rounded with glowing hover effect
+- Animations: Fade-up on scroll, smooth transitions between pages
+- Include simple 3D animation on hero using Three.js (rotating camera lens or floating light particles)
+
+---
+
+📦 OUTPUT:
+- Full React project ready to run with:
+  npm install
+  npm run dev
+- No backend folder or database setup
+- Placeholder photos/videos in public folder
+- Clean comments in code explaining structure and animation
+
+---
+
+🧩 EXTRA NOTES:
+- Add SEO meta tags in index.html
+- Include smooth scroll behavior globally
+- Mobile responsive layout for all devices
+- Simple footer with studio address and © year
