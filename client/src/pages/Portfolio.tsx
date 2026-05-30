@@ -20,78 +20,104 @@ import wed09 from "../../public/Wedding/09.jpg";
 import wed10 from "../../public/Wedding/10.jpg";
 import wed11 from "../../public/Wedding/11.jpg";
 import wed12 from "../../public/Wedding/12.jpg";
-import wed13 from "../../public/Wedding/13.jpg";
+
+// 13 skipped
+
 import wed14 from "../../public/Wedding/14.jpg";
 import wed15 from "../../public/Wedding/15.jpg";
 import wed16 from "../../public/Wedding/16.jpg";
 import wed17 from "../../public/Wedding/17.jpg";
 import wed18 from "../../public/Wedding/18.jpg";
 import wed19 from "../../public/Wedding/19.jpg";
+import wed20 from "../../public/Wedding/20.jpg";
+import wed21 from "../../public/Wedding/21.jpg";
+import wed22 from "../../public/Wedding/22.jpg";
+import wed23 from "../../public/Wedding/23.jpg";
+import wed24 from "../../public/Wedding/24.jpg";
+import wed25 from "../../public/Wedding/25.jpg";
+import wed26 from "../../public/Wedding/26.jpg";
+import wed27 from "../../public/Wedding/27.jpg";
+import wed28 from "../../public/Wedding/28.jpg";
+import wed29 from "../../public/Wedding/29.jpg";
+import wed30 from "../../public/Wedding/30.jpg";
+import wed31 from "../../public/Wedding/31.jpg";
+import wed32 from "../../public/Wedding/32.jpg";
+import wed33 from "../../public/Wedding/33.jpg";
+import wed34 from "../../public/Wedding/34.jpg";
+import wed35 from "../../public/Wedding/35.jpg";
+import wed36 from "../../public/Wedding/36.jpg";
+import wed37 from "../../public/Wedding/37.jpg";
+import wed38 from "../../public/Wedding/38.jpg";
+import wed39 from "../../public/Wedding/39.jpg";
 
-import wed20 from "../../public/02/01.jpg";
-import wed21 from "../../public/02/02.jpg";
-import wed22 from "../../public/02/03.jpg";
-import wed23 from "../../public/02/04.jpg";
-import wed24 from "../../public/02/05.jpg";
-import wed25 from "../../public/02/06.jpg";
-import wed26 from "../../public/02/07.jpg";
-import wed27 from "../../public/02/08.jpg";
-import wed28 from "../../public/02/09.jpg";
-import wed29 from "../../public/02/10.jpg";
-import wed30 from "../../public/02/11.jpg";
-import wed31 from "../../public/02/12.jpg";
-import wed32 from "../../public/02/13.jpg";
-import wed33 from "../../public/02/14.jpg";
-import wed34 from "../../public/02/15.jpg";
-import wed35 from "../../public/02/16.jpg";
-import wed36 from "../../public/02/17.jpg";
-import wed37 from "../../public/02/18.jpg";
-import wed38 from "../../public/02/19.jpg";
-import wed39 from "../../public/02/20.jpg"; 
-import wed40 from "../../public/02/21.jpg";
-import wed41 from "../../public/02/22.jpg";
-import wed42 from "../../public/02/23.jpg";
-import wed43 from "../../public/02/24.jpg";
-import wed44 from "../../public/02/25.jpg";
-import wed45 from "../../public/02/26.jpg";
-import wed46 from "../../public/02/27.jpg";
-import wed47 from "../../public/02/28.jpg";
-import wed48 from "../../public/02/29.jpg";
+// main pre wedding
 
+// import pre01 from "../../public/pre-wedding/01.jpg";
+// import pre02 from "../../public/pre-wedding/02.jpg";
+// import pre03 from "../../public/pre-wedding/03.jpg";
+// import pre04 from "../../public/pre-wedding/04.jpg";
+// import pre05 from "../../public/pre-wedding/05.jpg";
+// import pre06 from "../../public/pre-wedding/06.jpg";
+// import pre07 from "../../public/pre-wedding/07.jpg";
+// import pre08 from "../../public/pre-wedding/08.jpg";
+// import pre09 from "../../public/pre-wedding/09.jpg";
+// import pre10 from "../../public/pre-wedding/10.jpg";
+// import pre11 from "../../public/pre-wedding/11.jpg";
+// import pre12 from "../../public/pre-wedding/12.jpg";
+// import pre13 from "../../public/pre-wedding/13.jpg";
+// import pre14 from "../../public/pre-wedding/14.jpg";
+// import pre15 from "../../public/pre-wedding/15.jpg";
+// import pre16 from "../../public/pre-wedding/16.jpg";
 
-import pre01 from "../../public/PreWedding/01.jpg";
-import pre02 from "../../public/PreWedding/02.jpg";
-import pre03 from "../../public/PreWedding/03.jpg";
-import pre04 from "../../public/PreWedding/04.jpg";
-import pre05 from "../../public/PreWedding/05.jpg";
-import pre06 from "../../public/PreWedding/06.jpg";
-import pre07 from "../../public/PreWedding/07.jpg";
-import pre08 from "../../public/PreWedding/08.jpg";
-import pre09 from "../../public/PreWedding/09.jpg";
-import pre10 from "../../public/PreWedding/10.jpg";
-import pre11 from "../../public/PreWedding/11.jpg";
-import pre12 from "../../public/PreWedding/12.jpg";
-import pre13 from "../../public/PreWedding/13.jpg";
-import pre14 from "../../public/PreWedding/14.jpg";
-import pre15 from "../../public/PreWedding/15.jpg";
-import pre16 from "../../public/PreWedding/16.jpg";
-import pre17 from "../../public/PreWedding/17.jpg";
-import pre18 from "../../public/PreWedding/18.jpg";
-import pre19 from "../../public/PreWedding/19.jpg";
+// import pre01 from "../../public/PreWedding/01.jpg";
+// import pre02 from "../../public/PreWedding/02.jpg";
+// import pre03 from "../../public/PreWedding/03.jpg";
+// import pre04 from "../../public/PreWedding/04.jpg";
+// import pre05 from "../../public/PreWedding/05.jpg";
+// import pre06 from "../../public/PreWedding/06.jpg";
+// import pre07 from "../../public/PreWedding/07.jpg";
+// import pre08 from "../../public/PreWedding/08.jpg";
+// import pre09 from "../../public/PreWedding/09.jpg";
+// import pre10 from "../../public/PreWedding/10.jpg";
+// import pre11 from "../../public/PreWedding/11.jpg";
+// import pre12 from "../../public/PreWedding/12.jpg";
+// import pre13 from "../../public/PreWedding/13.jpg";
+// import pre14 from "../../public/PreWedding/14.jpg";
+// import pre15 from "../../public/PreWedding/15.jpg";
+// import pre16 from "../../public/PreWedding/16.jpg";
+// import pre17 from "../../public/PreWedding/17.jpg";
+// import pre18 from "../../public/PreWedding/18.jpg";
+// import pre19 from "../../public/PreWedding/19.jpg";
 
-import eve01 from "../../public/Function/01.jpg"
-import eve02 from "../../public/Function/02.jpg"
-import eve03 from "../../public/Function/03.jpg"
-import eve04 from "../../public/Function/04.jpg"
-import eve05 from "../../public/Function/05.jpg"
-import eve06 from "../../public/Function/06.jpg"
-import eve07 from "../../public/Function/07.jpg"
+import eve01 from "../../public/Function/01.jpg";
+import eve02 from "../../public/Function/02.jpg";
+import eve03 from "../../public/Function/03.jpg";
+import eve04 from "../../public/Function/04.jpg";
+import eve05 from "../../public/Function/05.jpg";
+import eve06 from "../../public/Function/06.jpg";
+import eve07 from "../../public/Function/07.jpg";
+import eve08 from "../../public/Function/08.jpg";
+import eve09 from "../../public/Function/09.jpg";
+import eve10 from "../../public/Function/10.jpg";
+import eve11 from "../../public/Function/11.jpg";
+import eve12 from "../../public/Function/12.jpg";
+import eve13 from "../../public/Function/13.jpg";
+import eve14 from "../../public/Function/14.jpg";
+import eve15 from "../../public/Function/15.jpg";
+import eve16 from "../../public/Function/16.jpg";
+import eve17 from "../../public/Function/17.jpg";
+import eve18 from "../../public/Function/18.jpg";
+import eve19 from "../../public/Function/19.jpg";
+import eve20 from "../../public/Function/20.jpg";
+import eve21 from "../../public/Function/21.jpg";
 import { i } from 'node_modules/vite/dist/node/types.d-aGj9QkWt';
 
 
 
 const portfolioItems = [
-  { id: 1, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed01 },
+
+  // wedding
+{ id: 1, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed01 },
 { id: 2, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed02 },
 { id: 3, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed03 },
 { id: 4, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed04 },
@@ -103,72 +129,110 @@ const portfolioItems = [
 { id: 10, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed10 },
 { id: 11, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed11 },
 { id: 12, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed12 },
-{ id: 13, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed13 },
+
+// 13 skipped
+
 { id: 14, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed14 },
 { id: 15, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed15 },
 { id: 16, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed16 },
 { id: 17, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed17 },
 { id: 18, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed18 },
 { id: 19, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed19 },
-// { id: 20, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed20 },
+{ id: 20, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed20 },
+{ id: 21, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed21 },
+{ id: 22, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed22 },
+{ id: 23, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed23 },
+{ id: 24, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed24 },
+{ id: 25, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed25 },
+{ id: 26, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed26 },
+{ id: 27, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed27 },
+{ id: 28, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed28 },
+{ id: 29, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed29 },
+{ id: 30, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed30 },
+{ id: 31, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed31 },
+{ id: 32, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed32 },
+{ id: 33, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed33 },
+{ id: 34, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed34 },
+{ id: 35, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed35 },
+{ id: 36, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed36 },
+{ id: 37, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed37 },
+{ id: 38, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed38 },
+{ id: 39, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed39 },
 
-{ id: 20, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre01 },
-{ id: 21, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre02 },
-{ id: 22, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre03 },
-{ id: 23, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre04 },
-{ id: 24, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre05 },
-{ id: 25, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre06 },
-{ id: 26, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre07 },
-{ id: 27, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre08 },
-{ id: 28, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre09 },
-{ id: 29, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre10 },
-{ id: 30, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre11 },
-{ id: 31, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre12 },
-{ id: 32, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre13 },
-{ id: 33, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre14 },
-{ id: 34, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre15 },
-{ id: 35, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre16 },
-{ id: 36, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre17 },
-{ id: 37, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre18 },
-{ id: 38, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre19 },
+  // pre wedding
 
-{ id:39, title: "Merrige Function", category: "Events", image: eve01 },
-{ id:40, title: "Merrige Function", category: "Events", image: eve02 },
-{ id:41, title: "Merrige Function", category: "Events", image: eve03 },
-{ id:42, title: "Merrige Function", category: "Events", image: eve04 },
-{ id:43, title: "Merrige Function", category: "Events", image: eve05 },
-{ id:44, title: "Merrige Function", category: "Events", image: eve06 },
-{ id:45, title: "Merrige Function", category: "Events", image: eve07 },
+// { id: 40, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre01 },
+// { id: 41, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre02 },
+// { id: 42, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre03 },
+// { id: 43, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre04 },
+// { id: 44, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre05 },
+// { id: 45, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre06 },
+// { id: 46, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre07 },
+// { id: 47, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre08 },
+// { id: 48, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre09 },
+// { id: 49, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre10 },
+// { id: 50, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre11 },
+// { id: 51, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre12 },
+// { id: 52, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre13 },
+// { id: 53, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre14 },
+// { id: 54, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre15 },
+// { id: 55, title: 'Romantic Pre-Wedding', category: 'Pre-wedding', image: pre16 },
 
-{ id: 46, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed20 },
-{ id: 47, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed21 },
-{ id: 48, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed22 },
-{ id: 49, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed23 },
-{ id: 50, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed24 },
-{ id: 51, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed25 },
-{ id: 52, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed26 },
-{ id: 53, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed27 },
-{ id: 54, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed28 },
-{ id: 55, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed29 },
-{ id: 56, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed30 },
-{ id: 57, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed31 },
-{ id: 58, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed32 },
-{ id: 59, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed33 },
-{ id: 60, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed34 },
-{ id: 61, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed35 },
-{ id: 62, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed36 },
-{ id: 63, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed37 },
-{ id: 64, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed38 },
-{ id: 65, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed39 }, 
-{ id: 66, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed40 },
-{ id: 67, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed41 },
-{ id: 68, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed42 },
-{ id: 69, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed43 },
-{ id: 70, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed44 },
-{ id: 71, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed45 },
-{ id: 72, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed46 },
-{ id: 73, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed47 },
-{ id: 74, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed48 },
+// event 
+
+{ id: 56, title: 'Special Function Event', category: 'Function', image: eve01 },
+{ id: 57, title: 'Special Function Event', category: 'Function', image: eve02 },
+{ id: 58, title: 'Special Function Event', category: 'Function', image: eve03 },
+{ id: 59, title: 'Special Function Event', category: 'Function', image: eve04 },
+{ id: 60, title: 'Special Function Event', category: 'Function', image: eve05 },
+{ id: 61, title: 'Special Function Event', category: 'Function', image: eve06 },
+{ id: 62, title: 'Special Function Event', category: 'Function', image: eve07 },
+{ id: 63, title: 'Special Function Event', category: 'Function', image: eve08 },
+{ id: 64, title: 'Special Function Event', category: 'Function', image: eve09 },
+{ id: 65, title: 'Special Function Event', category: 'Function', image: eve10 },
+{ id: 66, title: 'Special Function Event', category: 'Function', image: eve11 },
+{ id: 67, title: 'Special Function Event', category: 'Function', image: eve12 },
+{ id: 68, title: 'Special Function Event', category: 'Function', image: eve13 },
+{ id: 69, title: 'Special Function Event', category: 'Function', image: eve14 },
+{ id: 70, title: 'Special Function Event', category: 'Function', image: eve15 },
+{ id: 71, title: 'Special Function Event', category: 'Function', image: eve16 },
+{ id: 72, title: 'Special Function Event', category: 'Function', image: eve17 },
+{ id: 73, title: 'Special Function Event', category: 'Function', image: eve18 },
+{ id: 74, title: 'Special Function Event', category: 'Function', image: eve19 },
+{ id: 75, title: 'Special Function Event', category: 'Function', image: eve20 },
+{ id: 76, title: 'Special Function Event', category: 'Function', image: eve21 },
+
+
+
+// { id: 46, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed20 },
+// { id: 47, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed21 },
+// { id: 48, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed22 },
+// { id: 49, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed23 },
+// { id: 50, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed24 },
+// { id: 51, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed25 },
+// { id: 52, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed26 },
+// { id: 53, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed27 },
+// { id: 54, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed28 },
+// { id: 55, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed29 },
+// { id: 56, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed30 },
+// { id: 57, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed31 },
+// { id: 58, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed32 },
+// { id: 59, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed33 },
+// { id: 60, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed34 },
+// { id: 61, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed35 },
+// { id: 62, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed36 },
+// { id: 63, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed37 },
+// { id: 64, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed38 },
+// { id: 65, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed39 }, 
+// { id: 66, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed40 },
+// { id: 67, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed41 },
+// { id: 68, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed42 },
+// { id: 69, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed43 },
+// { id: 70, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed44 },
+// { id: 71, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed45 },
+// { id: 72, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed46 },
+// { id: 73, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed47 },
+// { id: 74, title: 'Elegant Wedding Ceremony', category: 'Wedding', image: wed48 },
 
  
 
